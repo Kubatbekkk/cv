@@ -14,7 +14,7 @@ resume_name:                    "Mirzabek Uulu Kubatbek"
 resume_title:                   "Frontend Developer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_telegram:           "https://t.me/casie2"
+resume_contact_telegram:           "casie2"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "555-7334"
