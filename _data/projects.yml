@@ -17,5 +17,5 @@
 - project: Async Race
   role: Developer
   duration: january, 2023
-  url: https://thecomfystore.netlify.app/
-  description: This is an educational project for building an online store using React. The project includes features such as browsing products, adding items to cart, and checkout.
+  url: https://async-racce.netlify.app/
+  description: Task is to create SPA to manage the collection of the cars, operate its engines, and show races statistics. For checking purposes setting this server https://github.com/mikhama/async-race-api is neseccary.
