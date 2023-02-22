@@ -3,19 +3,19 @@
 
 # jazznotes.io
 - project: RSTech
-   role: Developer
-   duration: december, 2022
-   url: https://rstechkn.netlify.app/
-   description: This is an educational project for building an online store using React with TypeScript, Redux, Webpack, ESLint, and Chakra UI.
+  role: Developer
+  duration: december, 2022
+  url: https://rstechkn.netlify.app/
+  description: This is an educational project for building an online store using React with TypeScript, Redux, Webpack, ESLint, and Chakra UI.
 
 - project: Comfy Store
-   role: Developer
-   duration: august, 2022
-   url: https://thecomfystore.netlify.app/
-   description: This is an educational project for building an online store using React. The project includes features such as browsing products, adding items to cart, and checkout.
+  role: Developer
+  duration: august, 2022
+  url: https://thecomfystore.netlify.app/
+  description: This is an educational project for building an online store using React. The project includes features such as browsing products, adding items to cart, and checkout.
 
 - project: Async Race
-   role: Developer
-   duration: january, 2023
-   url: https://thecomfystore.netlify.app/
-   description: This is an educational project for building an online store using React. The project includes features such as browsing products, adding items to cart, and checkout.
+  role: Developer
+  duration: january, 2023
+  url: https://thecomfystore.netlify.app/
+  description: This is an educational project for building an online store using React. The project includes features such as browsing products, adding items to cart, and checkout.
