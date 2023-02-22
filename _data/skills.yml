@@ -1,12 +1,16 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: HTML/CSS/SCSS
+  description: Proficient in HTML5 and CSS3, with experience in developing responsive and accessible web pages. Strong knowledge of HTML and CSS, with the ability to create and maintain clean, semantic markup and stylesheets. Advanced understanding of HTML and CSS, with expertise in front-end development frameworks such as Bootstrap, Tailwind, and Materialize.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: JavaScript / Typescript
+  description: Advanced understanding of JavaScript and TypeScript, with experience in developing complex web applications using modern framework such as React.
+  Proficient in vanilla JavaScript and TypeScript, with the ability to write clean, efficient, and maintainable code using advanced concepts such as closures, prototypes, async/await, and type annotations.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: React / Redux
+  description: Proficient in React and Redux, with the ability to create and maintain clean, reusable code using best practices such as functional components, hooks, and middleware.
+
+- skill: Additional Skills
+  description: Webpack, Styled-components, Eslint, Git, npm, Vite, yarn.
