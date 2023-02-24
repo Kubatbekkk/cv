@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Mirzabek Uulu Kubatbek"
+resume_name:                    "Kubatbek Mirzabek Uulu"
 resume_title:                   "Frontend Developer"
 
 # used for the contact button in _layouts/resume.html
@@ -23,7 +23,7 @@ resume_contact_address:         "Bishkek, Kyrgyzstan, 720000"
 resume_header_contact_info:     "Bishkek, Kyrgyzstan, 720000 • +(996) (999) 97-90-90 • k.mirzabekuulu@gmail.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I am a detail-oriented person who takes pride in producing high-quality work. I enjoy working in a team environment, where I can collaborate and share my ideas with other developers. I have also completed several projects where I was responsible for developing user interfaces.</p>"
+resume_header_intro: "<p>As a Frontend Developer, I am passionate about creating polished and effective user interfaces. I value attention to detail and strive to produce work of the highest quality. I thrive in a collaborative team environment, where I can contribute my ideas and learn from other developers. I have completed several successful projects where I was responsible for the development of user interfaces, and I am always eager to take on new challenges and enhance my skills.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
